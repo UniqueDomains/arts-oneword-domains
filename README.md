@@ -21,36 +21,36 @@ If you want to search & filters the complete database of [Arts one word domains]
 
 | Domain          | Status    | Attract. | Demand | Length | Registrar                                   | Created          | Expires          |
 | --------------- | --------- | -------- | ------ | ------ | ------------------------------------------- | ---------------- | ---------------- |
-| art.ac          | resell    | 90       | 44%    | 3      | Key-Systems GmbH                            | 08/10/2024 15:15 | 08/10/2025 15:15 |
-| art.academy     | resell    | 90       | 44%    | 3      | Dynadot Inc                                 | 27/10/2020 08:08 | 27/10/2025 08:08 |
-| art.accountant  | premium   | 90       | 44%    | 3      |                                             |                  |                  |
-| art.accountants | available | 90       | 44%    | 3      |                                             |                  |                  |
-| art.actor       | expired   | 90       | 44%    | 3      | Porkbun LLC                                 | 07/07/2024 20:22 | 07/07/2025 20:22 |
-| art.adult       | resell    | 90       | 44%    | 3      | Name.com, Inc.                              | 09/06/2017 14:31 | 09/06/2026 14:31 |
-| art.agency      | resell    | 90       | 44%    | 3      | GoDaddy Online Services Cayman Islands Ltd. | 24/06/2015 16:00 | 24/06/2033 16:00 |
-| art.ai          | resell    | 90       | 44%    | 3      | Dynadot Inc                                 | 16/12/2017 01:09 | 16/05/2033 01:09 |
-| art.airforce    | available | 90       | 44%    | 3      |                                             |                  |                  |
-| art.asia        | premium   | 90       | 44%    | 3      |                                             |                  |                  |
-| art.associates  | premium   | 90       | 44%    | 3      |                                             |                  |                  |
-| art.at          | premium   | 90       | 44%    | 3      |                                             |                  |                  |
-| art.attorney    | premium   | 90       | 44%    | 3      |                                             |                  |                  |
-| art.auction     | premium   | 90       | 44%    | 3      |                                             |                  |                  |
-| art.audio       | expiring  | 90       | 44%    | 3      | 1API GmbH                                   | 23/09/2024 14:56 | 23/09/2025 23:59 |
-| art.auto        | available | 90       | 44%    | 3      |                                             |                  |                  |
-| art.autos       | premium   | 90       | 44%    | 3      |                                             |                  |                  |
-| art.baby        | premium   | 90       | 44%    | 3      |                                             |                  |                  |
-| art.band        | resell    | 90       | 44%    | 3      | Sav.com, LLC                                | 21/01/2021 07:13 | 21/01/2026 07:13 |
-| art.bar         | premium   | 90       | 44%    | 3      |                                             |                  |                  |
-| art.bargains    | premium   | 90       | 44%    | 3      |                                             |                  |                  |
-| art.bayern      | premium   | 90       | 44%    | 3      |                                             |                  |                  |
-| art.beauty      | premium   | 90       | 44%    | 3      |                                             |                  |                  |
-| art.beer        | premium   | 90       | 44%    | 3      |                                             |                  |                  |
-| art.best        | resell    | 90       | 44%    | 3      | Dynadot LLC                                 | 06/01/2019 10:44 | 06/01/2026 23:59 |
-| art.bet         | resell    | 90       | 44%    | 3      | Dynadot Inc                                 | 03/03/2016 16:00 | 03/03/2026 16:00 |
-| art.blackfriday | premium   | 90       | 44%    | 3      |                                             |                  |                  |
-| art.boats       | premium   | 90       | 44%    | 3      |                                             |                  |                  |
-| art.boo         | premium   | 90       | 44%    | 3      |                                             |                  |                  |
-| art.boston      | premium   | 90       | 44%    | 3      |                                             |                  |                  |
+| art.ac          | resell    | 90       | 41%    | 3      | Porkbun LLC                                 | 08/10/2024 15:15 | 08/10/2026 15:15 |
+| art.academy     | resell    | 90       | 41%    | 3      | Dynadot Inc                                 | 27/10/2020 08:08 | 27/10/2026 08:08 |
+| art.accountant  | premium   | 90       | 41%    | 3      |                                             |                  |                  |
+| art.accountants | available | 90       | 41%    | 3      |                                             |                  |                  |
+| art.actor       | premium   | 90       | 41%    | 3      |                                             |                  |                  |
+| art.adult       | resell    | 90       | 41%    | 3      | Name.com, Inc.                              | 09/06/2017 14:31 | 09/06/2026 14:31 |
+| art.agency      | resell    | 90       | 41%    | 3      | GoDaddy Online Services Cayman Islands Ltd. | 24/06/2015 16:00 | 24/06/2033 16:00 |
+| art.ai          | resell    | 90       | 41%    | 3      | Dynadot Inc                                 | 16/12/2017 01:09 | 16/05/2033 01:09 |
+| art.airforce    | available | 90       | 41%    | 3      |                                             |                  |                  |
+| art.apartments  | available | 90       | 41%    | 3      |                                             |                  |                  |
+| art.app         | resell    | 90       | 41%    | 3      | GoDaddy.com, LLC                            | 18/07/2019 11:44 | 18/07/2026 11:44 |
+| art.asia        | premium   | 90       | 41%    | 3      |                                             |                  |                  |
+| art.associates  | premium   | 90       | 41%    | 3      |                                             |                  |                  |
+| art.at          | premium   | 90       | 41%    | 3      |                                             |                  |                  |
+| art.attorney    | premium   | 90       | 41%    | 3      |                                             |                  |                  |
+| art.auction     | premium   | 90       | 41%    | 3      |                                             |                  |                  |
+| art.audio       | sold      | 90       | 41%    | 3      | 1API GmbH                                   | 23/09/2024 14:56 | 23/09/2026 23:59 |
+| art.auto        | available | 90       | 41%    | 3      |                                             |                  |                  |
+| art.autos       | premium   | 90       | 41%    | 3      |                                             |                  |                  |
+| art.baby        | premium   | 90       | 41%    | 3      |                                             |                  |                  |
+| art.band        | resell    | 90       | 41%    | 3      | Sav.com, LLC                                | 21/01/2021 07:13 | 21/01/2026 07:13 |
+| art.bar         | premium   | 90       | 41%    | 3      |                                             |                  |                  |
+| art.bargains    | premium   | 90       | 41%    | 3      |                                             |                  |                  |
+| art.bayern      | premium   | 90       | 41%    | 3      |                                             |                  |                  |
+| art.beauty      | premium   | 90       | 41%    | 3      |                                             |                  |                  |
+| art.beer        | premium   | 90       | 41%    | 3      |                                             |                  |                  |
+| art.best        | expiring  | 90       | 41%    | 3      | Dynadot LLC                                 | 06/01/2019 10:44 | 06/01/2026 23:59 |
+| art.bet         | resell    | 90       | 41%    | 3      | Dynadot Inc                                 | 03/03/2016 16:00 | 03/03/2026 16:00 |
+| art.blackfriday | premium   | 90       | 41%    | 3      |                                             |                  |                  |
+| art.boats       | premium   | 90       | 41%    | 3      |                                             |                  |                  |
 
 <p align="center">
     <a href="https://github.com/UniqueDomains/Arts-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
@@ -90,7 +90,7 @@ If you want to search & filters the complete database of [Arts one word domains]
 | -------- | ------------ | ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
 | Expired  | 23,472       | [Github](https://github.com/UniqueDomains/expired-oneword-domains)  | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.link)  |
 | Expiring | 51,125       | [Github](https://github.com/UniqueDomains/expiring-oneword-domains) | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expiring-oneword-domains&utm_content=table.link) |
-| All      | 3,525,538    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
+| All      | 3,618,436    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
 ## By TLD
 
 | Name           | Total Number | Extract                                                                  | Full Database                                                                                                                                   |
