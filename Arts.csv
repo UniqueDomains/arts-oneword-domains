@@ -25,7 +25,7 @@ fc8adc93-cba6-42d8-8ca6-5316e11b67ca,art.bargains,premium,90,41,3,,,
 e381da55-86d7-4251-8d97-316ff0454dab,art.bayern,premium,90,41,3,,,
 96b10f18-b8b8-4f14-81e5-6b40d36e84d2,art.beauty,premium,90,41,3,,,
 104bf56c-c671-497d-a761-c39936b6dcbd,art.beer,premium,90,41,3,,,
-c2cc1708-52d3-4735-8fe2-0f8cb2d9a2ef,art.best,expiring,90,41,3,Dynadot LLC,06/01/2019 10:44,06/01/2026 23:59
+c2cc1708-52d3-4735-8fe2-0f8cb2d9a2ef,art.best,resell,90,41,3,Dynadot LLC,06/01/2019 10:44,06/01/2027 23:59
 2479ea0d-09cd-45cd-b3f9-d75038031b1d,art.bet,resell,90,41,3,Dynadot Inc,03/03/2016 16:00,03/03/2026 16:00
 b4f45312-62a3-4687-a7b7-3ed954a591dd,art.blackfriday,premium,90,41,3,,,
 101d6ee5-042e-4fba-b5c3-adafa4dec8f5,art.boats,premium,90,41,3,,,
@@ -57,6 +57,7 @@ dc5f8f9b-ed24-43f0-b299-34aba00b2111,art.cloud,premium,90,41,3,,,
 421b4d12-825c-4c1e-be47-488225df826b,art.codes,sold,90,41,3,INWX GmbH,07/11/2025 09:59,07/11/2026 09:59
 ca23fd04-dc44-4e46-b4a8-689b5d6eebb0,art.college,premium,90,41,3,,,
 ac411337-8256-46dd-9e63-ee99b675bcea,art.company,resell,90,41,3,Dynadot Inc,09/09/2017 08:16,09/09/2026 08:16
+9f64171d-8467-41be-8732-e31176c39bd0,art.computer,expiring,90,41,3,Dynadot Inc,07/01/2019 19:08,07/01/2026 19:08
 e0a7fba0-5cb9-44a4-82f7-c1010315a932,art.condos,premium,90,41,3,,,
 dd42d92e-6f88-4fed-8eb8-cf74fb485b66,art.construction,premium,90,41,3,,,
 e6988778-6fab-4d46-aaeb-2e58c6214f03,art.consulting,premium,90,41,3,,,
@@ -88,13 +89,13 @@ e09d8fc9-2c55-4f21-818b-ecdfad882448,art.diamonds,available,90,41,3,,,
 00af9763-aa42-4757-a62a-af1ed4080085,art.doctor,resell,90,41,3,"Sav.com, LLC - 35",12/09/2025 17:00,12/09/2026 17:00
 86e68952-0673-4a07-8192-fc2cd0e88a60,art.domains,resell,90,41,3,"GoDaddy.com, LLC",26/10/2015 18:47,26/10/2026 18:47
 89b86da4-f8b5-4390-9a54-28eedac0630f,art.download,premium,90,41,3,,,
-1080c637-721e-4959-beaa-e829a308f271,art.energy,expired,90,41,3,"Sav.com, LLC - 28",24/09/2024 15:15,24/09/2025 15:15
+1080c637-721e-4959-beaa-e829a308f271,art.energy,premium,90,41,3,,,
 dd1ffca6-8514-4be0-ab02-b5a46f88598d,art.enterprises,resell,90,41,3,"Spaceship, Inc.",19/10/2022 13:15,19/10/2025 13:15
 395f3327-d5e0-4cc3-9b46-ad8d4a0247fa,art.equipment,premium,90,41,3,,,
 03dad80a-db2a-4f84-8070-e6ff38be1e7f,art.esq,premium,90,41,3,,,
 9aa86e76-3af5-4550-928c-2d51cf2ed399,art.estate,resell,90,41,3,Porkbun LLC,28/05/2025 11:06,28/05/2026 11:06
-6ca0374b-0f66-4161-a7d6-995c70f606a4,art.eu,premium,90,41,3,,,
-45050ec4-c915-4d7d-ad3a-637c6c6ab5da,art.exchange,resell,90,41,3,"Sav.com, LLC - 15",14/01/2024 15:15,14/01/2026 15:15
+6ca0374b-0f66-4161-a7d6-995c70f606a4,art.eu,sold,90,41,3,Name: CSC CORPORATE DOMAINS INC. Website: https://www.cscdbs.com,,
+45050ec4-c915-4d7d-ad3a-637c6c6ab5da,art.exchange,expiring,90,41,3,"Sav.com, LLC - 15",14/01/2024 15:15,14/01/2026 15:15
 4917ab11-2216-43af-a4f7-036a1ede1ae7,art.expert,premium,90,41,3,,,
 c5866f06-a0e6-4a89-a46b-f7b2deac61dd,art.exposed,premium,90,41,3,,,
 1239c219-fa1f-490e-9446-17cdfaeaae35,art.express,expiring,90,41,3,Dynadot Inc,05/01/2018 08:07,05/01/2026 08:07
@@ -114,7 +115,7 @@ d25ae57a-e9f7-4bef-ade3-d0c6d5a564b2,art.forsale,premium,90,41,3,,,
 7c4ccf2f-ecdf-49ff-8019-91da0233a787,art.foundation,resell,90,41,3,Porkbun LLC,04/10/2020 12:06,04/10/2026 12:06
 2055cae9-f4c4-4f53-b67b-5d644eb9da9b,art.free,premium,90,41,3,,,
 a8142da4-d785-423d-920d-a9db7aee9590,art.futbol,available,90,41,3,,,
-c1b1bc2f-9e40-4b6f-991a-3a92ad4be858,art.gallery,resell,76,41,3,1API GmbH,11/06/2015 16:00,11/06/2026 16:00
+c1b1bc2f-9e40-4b6f-991a-3a92ad4be858,art.gallery,resell,90,41,3,1API GmbH,11/06/2015 16:00,11/06/2026 16:00
 bd5603a6-e2d2-4eef-96ee-b6a1d6b89e64,art.garden,resell,90,41,3,Dynadot Inc,23/04/2021 16:02,23/04/2026 16:02
 618cbbfe-84e8-4f55-b293-d704c13b75da,art.gay,premium,90,41,3,,,
 a8e393c0-6287-4b58-be62-aaf7f7a42406,art.gift,premium,90,41,3,,,
@@ -185,7 +186,7 @@ cc0163cc-0fe6-4a85-a52b-f813792476fd,art.money,resell,90,41,3,"Global Domains In
 09b35704-e624-4ae9-bf03-f55aedb0e505,art.mortgage,premium,90,41,3,,,
 11ca4cd8-63c0-4da8-b0ad-51572afcba7b,art.motorcycles,premium,90,41,3,,,
 52055682-6b21-4a51-893b-444978670207,art.mov,premium,90,41,3,,,
-2a4192b5-1592-4f61-be52-649497e9730f,art.music,premium,70,41,3,,,
+2a4192b5-1592-4f61-be52-649497e9730f,art.music,premium,90,41,3,,,
 8de39621-e43c-4b7d-bd75-21d387ca59b4,art.navy,available,90,41,3,,,
 cc0f82e9-d969-4eac-a596-fac722c48b15,art.news,expiring,90,41,3,Porkbun LLC,17/12/2023 03:41,17/12/2025 03:41
 72f38e9b-ab43-4146-984c-0030d380b66c,art.nexus,premium,90,41,3,,,
@@ -239,7 +240,7 @@ d2779d49-0cb2-4b47-91f7-9e9992b0f451,art.ski,premium,90,41,3,,,
 942a1580-0be9-4086-89bc-db6a95d4ba33,art.skin,premium,90,41,3,,,
 18040206-6de9-401a-af44-cae4e9f08017,art.soccer,available,90,41,3,,,
 6159d38f-b605-4037-96d1-b5b8da974c7a,art.software,premium,90,41,3,,,
-bf9eb287-e878-4aeb-95b4-2165301d84d6,art.solar,resell,90,41,3,"Sav.com, LLC - 40",09/11/2024 15:15,09/11/2026 15:15
+bf9eb287-e878-4aeb-95b4-2165301d84d6,art.solar,sold,90,41,3,"Sav.com, LLC - 40",09/11/2024 15:15,09/11/2026 15:15
 7826db26-2fa0-4c72-ad84-126b41e2449c,art.solutions,resell,90,41,3,Porkbun LLC,16/05/2025 19:20,16/05/2026 19:20
 75cbab30-9269-4aae-bee1-08aeb988a186,art.soy,premium,90,41,3,,,
 5cbfc910-f96e-44eb-8a33-5752e19d68dc,art.space,premium,90,41,3,,,
@@ -767,6 +768,7 @@ a2a986bc-402e-4357-acea-d66566518da2,artwork.audio,available,82,16,7,,,
 4d358d84-a973-459a-93ac-c1ddf1beb231,artwork.band,available,82,16,7,,,
 99c11875-d0a1-495f-944a-22692fa8ca3a,artwork.bar,premium,82,16,7,,,
 5e623bf8-8c9e-4990-ba0b-7cf30392b223,artwork.bayern,available,82,16,7,,,
+6980c72b-1b15-4854-8b4d-5b7c9736b673,artwork.beauty,expiring,82,16,7,"Porkbun, LLC",08/01/2024 15:32,08/01/2026 23:59
 09af1397-09aa-4f59-8919-9eb7528a601e,artwork.beer,available,82,16,7,,,
 013e0ce4-a2bc-4928-bc84-de58409db003,artwork.berlin,available,82,16,7,,,
 d8e9a290-e29f-47f5-a3d2-629a69ed02ad,artwork.best,premium,82,16,7,,,
@@ -789,7 +791,7 @@ bdd9a86d-cdc9-4ba6-bd48-eb245c26fe35,artwork.boats,available,82,16,7,,,
 4732d764-faf2-4769-b39d-8222f2a3121d,artwork.buzz,premium,82,16,7,,,
 26c53ff9-db87-4c3c-9805-cf582a237118,artwork.bz,available,82,16,7,,,
 46a16d3b-81f9-4714-8dbf-f5f9b881e9a8,artwork.cab,available,82,16,7,,,
-7eb6a75c-849b-4f26-b557-f69325d2b82e,artwork.cam,expired,82,16,7,"Spaceship, Inc.",22/09/2023 22:54,22/09/2025 23:59
+7eb6a75c-849b-4f26-b557-f69325d2b82e,artwork.cam,premium,82,16,7,,,
 8da02f99-1e1e-4794-9da2-b36341286b8e,artwork.camera,available,82,16,7,,,
 a0145997-3585-451d-a9eb-4ce34aff0189,artwork.camp,available,82,16,7,,,
 7cd077fd-246c-4a74-a119-872a1370df18,artwork.car,available,82,16,7,,,
@@ -812,7 +814,7 @@ f1a2f7ce-61e0-451e-96cb-bf7479768d02,artwork.city,resell,82,16,7,"Sav.com, LLC -
 570235ce-27df-45fe-b317-01c8ae8280ea,artwork.cleaning,available,82,16,7,,,
 1cc8322a-1438-4f38-a24c-1c8fc05ce61c,artwork.clinic,available,82,16,7,,,
 6e492dec-fba7-44ad-83cd-0bc2ace7e08f,artwork.clothing,available,82,16,7,,,
-7e9b8edc-dddb-4708-9c1b-b042116a5cba,artwork.cloud,expiring,82,16,7,GoDaddy,10/12/2019 00:06,10/12/2025 00:06
+7e9b8edc-dddb-4708-9c1b-b042116a5cba,artwork.cloud,resell,82,16,7,GoDaddy,10/12/2019 00:06,10/12/2026 00:06
 134908e6-5439-4500-9a3b-06d09babf698,artwork.club,premium,82,16,7,,,
 a07b1020-a0ab-49e0-8ee9-8128f0967526,artwork.co,sold,82,16,7,"Name.com, Inc.",21/07/2010 21:44,20/07/2026 23:59
 131efe9e-cc40-43ec-9d5e-24970ea556c4,artwork.coach,available,82,16,7,,,
@@ -971,6 +973,7 @@ f29ca91d-6530-4431-8b24-23c54ee7e998,artwork.law,available,82,16,7,,,
 39267c95-5aa5-4652-9254-b70cb2427cf5,artwork.lgbt,available,82,16,7,,,
 bcb6358a-ee3a-4c4e-9963-7479d008e33b,artwork.life,sold,82,16,7,CommuniGal Communication Ltd.,25/09/2025 15:15,25/09/2026 15:15
 afeed8e6-f665-4a76-9c79-6d542df391b7,artwork.lifestyle,available,82,16,7,,,
+96da0c6f-344a-46b1-8119-7273edc57a71,artwork.lighting,expired,82,16,7,"NameCheap, Inc.",27/10/2017 18:10,27/10/2025 18:10
 6a268838-2380-4fde-bc4d-834a06e93a88,artwork.limited,available,82,16,7,,,
 6704ae38-3e8c-48ed-8d07-a25e7716edfa,artwork.limo,available,82,16,7,,,
 f06a4d21-fe87-45ef-9602-9ff35cef9713,artwork.live,resell,82,16,7,"DNSPod, Inc.",25/10/2024 17:00,25/10/2026 17:00
@@ -996,6 +999,3 @@ a9a82459-1f89-48bb-b722-5d4cfc83140b,artwork.meme,premium,82,16,7,,,
 c09e69bc-3c4e-44bb-a120-af1309d8635d,artwork.memorial,available,82,16,7,,,
 023759d4-e99b-43c5-a821-937882606e6b,artwork.men,premium,82,16,7,,,
 a932e91d-e3e3-4ef3-a86d-d418f26219c7,artwork.menu,premium,82,16,7,,,
-a20d84ae-531b-401c-941d-1e6587ca6162,artwork.miami,available,82,16,7,,,
-0e7303c4-37a0-4fe7-a57a-a7b127e86878,artwork.mobi,available,82,16,7,,,
-f7d4f26b-5666-42af-a76a-7a57a27ec67b,artwork.moda,available,82,16,7,,,
