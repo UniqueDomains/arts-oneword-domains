@@ -1,22 +1,22 @@
-# Arts One-Word Domains (10,252)
+# Arts One-Word Domains (0)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-10%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-10%2C252%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-0%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
-Daily-updated public extract of arts one-word domains from Unique Domains.
+Daily-updated dataset of arts one-word domains from Unique Domains.
 
-> **Important:** this repository is a **public 10,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **10,252 domains** on the canonical page below.
+> **Note:** this repository currently mirrors the full live catalog for this exact search.
+> Unique Domains counts can still change as the search refreshes.
 
-**Public extract:** 10,000 rows · **Live catalog:** 10,252 domains
+**Public extract:** 10,000 rows · **Live catalog:** 0 domains
 
-**Last updated:** 2026-04-12  
+**Last updated:** 2026-04-13  
 **Canonical page:** `https://unique.domains/domains/sector/arts`  
 **Best for:** founders, investors, studios
 
@@ -64,25 +64,25 @@ print(df.head())
 
 | domain           | status    | ask_price   | renewal_price | attractiveness | demand | length | registrar                  |
 | ---------------- | --------- | ----------- | ------------- | -------------- | ------ | ------ | -------------------------- |
-| artistic.ryukyu  | available | $22.98      | —             | 78             | 98     | 8      | namecheap                  |
+| visualart.zone   | available | $51.98      | —             | 64             | 92     | 10     | namecheap                  |
 | studies.org      | resell    | $101,200    | $21.99        | —              | 84     | 7      | GoDaddy.com, LLC           |
 | visualart.dev    | premium   | $61.25      | $61.25        | 64             | 92     | 10     | name.com                   |
-| visualart.zone   | available | $51.98      | —             | 64             | 92     | 10     | namecheap                  |
+| visualart.tech   | available | $13.99      | $84.99        | 64             | 92     | 10     | name.com                   |
 | aesthetics.me    | resell    | $5,748.85   | $26.99        | 62             | 80     | 10     | Dynadot Inc                |
 | visualart.app    | premium   | $4,370      | $26.99        | 64             | 92     | 10     | name.com                   |
-| visualart.tech   | available | $13.99      | $84.99        | 64             | 92     | 10     | name.com                   |
+| visualart.ninja  | available | $42.98      | —             | 64             | 92     | 10     | namecheap                  |
 | ceramics.xyz     | resell    | $114,871.20 | $20.99        | 58             | 80     | 8      | Dynadot LLC                |
 | theater.zone     | premium   | $128.70     | $128.70       | 72             | 88     | 7      | namecheap                  |
-| visualart.ninja  | available | $42.98      | —             | 64             | 92     | 10     | namecheap                  |
+| visualart.gg     | available | $82.98      | —             | 64             | 92     | 10     | namecheap                  |
 | ceramics.co      | resell    | $6,323.85   | $48.99        | 58             | 80     | 8      | Spaceship, Inc.            |
 | theater.tech     | premium   | $781.25     | $3,125        | 72             | 88     | 7      | name.com                   |
-| visualart.gg     | available | $82.98      | —             | 64             | 92     | 10     | namecheap                  |
+| visualart.expert | available | $82.48      | —             | 64             | 92     | 10     | namecheap                  |
 | sculpture.me     | resell    | $791.20     | $27.99        | 84             | 72     | 9      | GoDaddy.com, LLC           |
 | theater.store    | premium   | $312.50     | $1,250        | 72             | 88     | 7      | name.com                   |
-| visualart.expert | available | $82.48      | —             | 64             | 92     | 10     | namecheap                  |
+| visualart.cloud  | available | $32.98      | —             | 64             | 92     | 10     | namecheap                  |
 | creative.red     | resell    | $5,290      | $29.99        | 92             | 45     | 8      | Squarespace Domains II LLC |
 | theater.space    | premium   | $812.50     | $3,250        | 72             | 88     | 7      | namecheap                  |
-| visualart.cloud  | available | $32.98      | —             | 64             | 92     | 10     | namecheap                  |
+| theater.ninja    | available | $42.98      | —             | 72             | 88     | 7      | namecheap                  |
 | creative.blue    | resell    | $9,775      | $35.99        | 92             | 45     | 8      | Squarespace Domains II LLC |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract           | Unique Domains                                   |
 | ------------------------ | ------------------------------------------------ |
-| 10,000-row public sample | 10,252 live domains                              |
+| 10,000-row public sample | 0 live domains                                   |
 | Static CSV / JSON        | live search and daily refresh                    |
 | Basic exported fields    | deeper price, demand, risk, and workflow context |
 | No persistence           | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Arts One-Word Domains*. Version 2026-04-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Arts One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 

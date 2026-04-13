@@ -4,9 +4,9 @@ title: "Arts One-Word Domains"
 type: dataset
 authors:
   - name: "Unique Domains"
-version: "2026-04-12"
-date-released: "2026-04-12"
+version: "2026-04-13"
+date-released: "2026-04-13"
 url: "https://unique.domains/domains/sector/arts"
 repository-code: "https://github.com/UniqueDomains/arts-oneword-domains"
 license: "See LICENSE"
-abstract: "Daily-updated public extract of arts one-word domains from Unique Domains."
+abstract: "Daily-updated dataset of arts one-word domains from Unique Domains."
