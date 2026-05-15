@@ -1,10 +1,10 @@
-# Arts Keyword Domains (10,643)
+# Arts Keyword Domains (10,646)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-10%2C643%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-10%2C646%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 This selection covers 10,607 arts keyword domains across 505 TLDs, including names like culture.hamburg and photography.ac. Updated daily. Median ask is 921.74, so comparisons here are mainly about keyword fit, extension quality, and renewal discipline.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **10,643 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **10,646 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 10,643 domains · **Median ask:** $923.72 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 10,646 domains · **Median ask:** $923.52 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-13  
+**Last updated:** 2026-05-15  
 **Canonical page:** `https://unique.domains/domains/sector/Arts`  
 **Best for:** founders, investors, studios
 
@@ -66,8 +66,6 @@ print(df.head())
 | --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------------------------------- |
 | art.shop        | premium   | $12,500   | —             | 90             | 51     | 3      | name.com                                                |
 | art.works       | resell    | —         | —             | 90             | 51     | 3      | Porkbun LLC                                             |
-| artist.boutique | resell    | —         | —             | 81             | 31     | 6      | Spaceship, Inc.                                         |
-| artist.llc      | resell    | —         | —             | 81             | 31     | 6      | GoDaddy.com, LLC                                        |
 | painting.so     | available | $68.98    | —             | 62             | 80     | 8      | namecheap                                               |
 | painting.io     | resell    | —         | —             | 62             | 80     | 8      | Dynadot Inc                                             |
 | painting.tech   | premium   | $1,562.50 | $6,250        | 62             | 80     | 8      | name.com                                                |
@@ -84,6 +82,8 @@ print(df.head())
 | art.xxx         | resell    | —         | —             | 90             | 51     | 3      | Name.com, Inc.                                          |
 | painting.online | premium   | $1,562.50 | $6,250        | 62             | 80     | 8      | name.com                                                |
 | art.vana        | available | $2,498    | —             | 90             | 51     | 3      | namecheap                                               |
+| art.world       | resell    | —         | —             | 90             | 51     | 3      | Dynadot Inc                                             |
+| painting.ninja  | premium   | $128.70   | $128.70       | 62             | 80     | 8      | namecheap                                               |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 10,643 live domains                        |
+| 1,000-row public sample | 10,646 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 0 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Arts Keyword Domains*. Version 2026-05-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Arts Keyword Domains*. Version 2026-05-15. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
