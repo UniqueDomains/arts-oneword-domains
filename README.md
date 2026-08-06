@@ -1,29 +1,29 @@
-# Arts Keyword Domains (10,646)
+# One-Word Arts Domain Names — 506 TLDs, Updated Daily (180,037)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-10%2C646%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-180%2C037%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
-This selection covers 10,607 arts keyword domains across 505 TLDs, including names like culture.hamburg and photography.ac. Updated daily. Median ask is 921.74, so comparisons here are mainly about keyword fit, extension quality, and renewal discipline.
+This selection includes 179,835 one-word Arts domain names across 506 TLDs, with a median ask of $713.54. Updated daily, it offers a price-transparent shortlist for comparing brandability, TLD coverage, and renewal costs before committing.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **10,646 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **180,037 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 10,646 domains · **Median ask:** $923.52 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 180,037 domains · **Median ask:** $702.19 · **High-demand under $2,500:** 728
 
-**Last updated:** 2026-05-26  
-**Canonical page:** `https://unique.domains/domains/sector/Arts`  
+**Last updated:** 2026-08-06
+**Canonical page:** `https://unique.domains/domains/sector/arts`
 **Best for:** founders, investors, studios
 
 ---
 
 <p align="center">
-  <a href="https://unique.domains/domains/sector/Arts?utm_source=github&utm_medium=referral&utm_campaign=repo_arts_oneword_domains&utm_content=top_open_search"><b>🗂️ Open live database</b></a> ·
+  <a href="https://unique.domains/domains/sector/arts?utm_source=github&utm_medium=referral&utm_campaign=repo_arts_oneword_domains&utm_content=top_open_search"><b>🗂️ Open live database</b></a> ·
   <b>⬇️ Download sample</b>: <a href="./arts.csv">CSV</a> / <a href="./arts.json">JSON</a>
   · <a href="https://unique.domains/technology?utm_source=github&utm_medium=referral&utm_campaign=repo_arts_oneword_domains&utm_content=top_methodology"><b>🧪 Methodology</b></a>
   · <a href="https://unique.domains/api?utm_source=github&utm_medium=referral&utm_campaign=repo_arts_oneword_domains&utm_content=top_api_docs"><b>🧰 API docs</b></a>
@@ -31,25 +31,25 @@ This selection covers 10,607 arts keyword domains across 505 TLDs, including nam
 
 ---
 
-➡️ **Investors:** [Create a Radar from this exact search](https://unique.domains/domains/sector/Arts?github_intent=radar&utm_source=github&utm_medium=referral&utm_campaign=repo_arts_oneword_domains&utm_content=top_create_radar)  
-➡️ **Founders:** [Start a Project from this exact search](https://unique.domains/domains/sector/Arts?github_intent=project&utm_source=github&utm_medium=referral&utm_campaign=repo_arts_oneword_domains&utm_content=top_start_project)  
+➡️ **Investors:** [Create a Radar from this exact search](https://unique.domains/domains/sector/arts?github_intent=radar&utm_source=github&utm_medium=referral&utm_campaign=repo_arts_oneword_domains&utm_content=top_create_radar)  
+➡️ **Founders:** [Start a Project from this exact search](https://unique.domains/domains/sector/arts?github_intent=project&utm_source=github&utm_medium=referral&utm_campaign=repo_arts_oneword_domains&utm_content=top_start_project)  
 ➡️ **Builders:** [Connect to our API](https://unique.domains/api?utm_source=github&utm_medium=referral&utm_campaign=repo_arts_oneword_domains&utm_content=top_api_docs)
 
 ---
 
 ## 📦 What this repository contains
 
-This repository is the public extract for the exact Unique Domains search represented by `https://unique.domains/domains/sector/Arts`.
+This repository is the public extract for the exact Unique Domains search represented by `https://unique.domains/domains/sector/arts`.
 
 ### Files
 
-- `arts.csv` — public CSV extract (1,000 rows)
-- `arts.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `arts.csv`, public CSV extract (1,000 rows)
+- `arts.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                               |
-| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------------------------------- |
-| art.shop        | premium   | $12,500   | —             | 90             | 51     | 3      | name.com                                                |
-| art.works       | resell    | —         | —             | 90             | 51     | 3      | Porkbun LLC                                             |
-| painting.so     | available | $68.98    | —             | 62             | 80     | 8      | namecheap                                               |
-| painting.io     | resell    | —         | —             | 62             | 80     | 8      | Dynadot Inc                                             |
-| painting.tech   | premium   | $1,562.50 | $6,250        | 62             | 80     | 8      | name.com                                                |
-| painting.gg     | available | $82.98    | —             | 62             | 80     | 8      | namecheap                                               |
-| art.guide       | resell    | —         | —             | 90             | 53     | 3      | Porkbun LLC                                             |
-| painting.store  | premium   | $781.25   | $3,125        | 62             | 80     | 8      | name.com                                                |
-| art.hospital    | available | $71.98    | —             | 90             | 55     | 3      | namecheap                                               |
-| art.builders    | resell    | —         | —             | 90             | 52     | 3      | Spaceship, Inc.                                         |
-| painting.space  | premium   | $1,625    | $6,500        | 62             | 80     | 8      | namecheap                                               |
-| art.voting      | available | $1,448    | —             | 90             | 51     | 3      | namecheap                                               |
-| art.zone        | resell    | —         | —             | 90             | 51     | 3      | Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn) |
-| painting.site   | premium   | $1,562.50 | $6,250        | 62             | 80     | 8      | name.com                                                |
-| art.viajes      | available | $57.98    | —             | 90             | 51     | 3      | namecheap                                               |
-| art.xxx         | resell    | —         | —             | 90             | 51     | 3      | Name.com, Inc.                                          |
-| painting.online | premium   | $1,562.50 | $6,250        | 62             | 80     | 8      | name.com                                                |
-| art.vana        | available | $2,498    | —             | 90             | 51     | 3      | namecheap                                               |
-| art.world       | resell    | —         | —             | 90             | 51     | 3      | Dynadot Inc                                             |
-| painting.ninja  | premium   | $128.70   | $128.70       | 62             | 80     | 8      | namecheap                                               |
+| domain           | status    | ask_price   | renewal_price | attractiveness | demand | length | registrar                  |
+| ---------------- | --------- | ----------- | ------------- | -------------- | ------ | ------ | -------------------------- |
+| room.management  | resell    | —           | —             | high           | low    | 4      | Porkbun LLC                |
+| bust.gallery     | available | $28.99      | $28.99        | high           | low    | 4      | namesilo                   |
+| room.co          | resell    | $172,371.20 | $48.99        | high           | low    | 4      | GoDaddy.com, LLC           |
+| art.red          | premium   | $780        | $780          | high           | medium | 3      | namecheap                  |
+| bust.graphics    | available | $23.99      | $23.99        | high           | low    | 4      | namesilo                   |
+| room.me          | resell    | $25,286.20  | $27.99        | high           | low    | 4      | Dynadot Inc                |
+| art.shop         | premium   | $12,500     | —             | high           | medium | 3      | name.com                   |
+| bust.photo       | available | $29.99      | $29.99        | high           | low    | 4      | namesilo                   |
+| model.miami      | resell    | $22.99      | —             | high           | low    | 5      | GoDaddy.com, LLC           |
+| art.space        | premium   | $3,250      | $13,000       | high           | medium | 3      | namecheap                  |
+| clay.gallery     | available | $28.99      | $28.99        | high           | low    | 4      | namesilo                   |
+| skill.pro        | resell    | $9,752      | $33.99        | high           | medium | 5      | Porkbun LLC                |
+| arts.photo       | premium   | $116        | $116          | high           | low    | 4      | namesilo                   |
+| clay.photography | available | $9.99       | —             | high           | low    | 4      | name.com                   |
+| artistic.pics    | resell    | $1.99       | —             | high           | low    | 8      | Spaceship, Inc.            |
+| arts.photos      | premium   | $23.60      | $23.60        | high           | low    | 4      | namesilo                   |
+| clay.pictures    | available | $9.99       | —             | high           | low    | 4      | name.com                   |
+| creative.blue    | resell    | $9,775      | $35.99        | high           | medium | 8      | Squarespace Domains II LLC |
+| arts.space       | premium   | $3,500      | $14,000       | high           | low    | 4      | namecheap                  |
+| clay.ryukyu      | available | $22.98      | —             | high           | low    | 4      | namecheap                  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,39 +93,39 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 10,646 live domains                        |
+| 1,000-row public sample | 180,037 live domains                       |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 0 high-demand names under $2,500           |
+| Basic exported fields   | 728 high-demand names under $2,500         |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
 If this sample already feels useful, Unique Domains is where the exact search becomes a workflow.
 
-[Create Radar](https://unique.domains/domains/sector/Arts?github_intent=radar&utm_source=github&utm_medium=referral&utm_campaign=repo_arts_oneword_domains&utm_content=top_create_radar) · [Start Project](https://unique.domains/domains/sector/Arts?github_intent=project&utm_source=github&utm_medium=referral&utm_campaign=repo_arts_oneword_domains&utm_content=top_start_project) · [See pricing](https://unique.domains/pricing?utm_source=github&utm_medium=referral&utm_campaign=repo_arts_oneword_domains&utm_content=related_pricing)
+[Create Radar](https://unique.domains/domains/sector/arts?github_intent=radar&utm_source=github&utm_medium=referral&utm_campaign=repo_arts_oneword_domains&utm_content=top_create_radar) · [Start Project](https://unique.domains/domains/sector/arts?github_intent=project&utm_source=github&utm_medium=referral&utm_campaign=repo_arts_oneword_domains&utm_content=top_start_project) · [See pricing](https://unique.domains/pricing?utm_source=github&utm_medium=referral&utm_campaign=repo_arts_oneword_domains&utm_content=related_pricing)
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This set is centered on the keyword arts and closely related creative terms shown in the selection, including culture, artwork, digital, and photography. The range of extensions is unusually broad, from geographic endings such as .hamburg to niche options like .ryukyu, .bargains, .broker, .desi, and .kiwi. That breadth creates very different ownership profiles. When comparing these domains, start with exact keyword relevance, then weigh extension credibility, likely renewal burden, and whether the full name reads cleanly in speech and text. For buyers seeking a practical shortlist, the median ask of 921.74 gives a useful reference point for spotting names priced near the middle versus clear outliers.
+This set includes 179,835 one-word domain names connected to Arts, spread across 506 different TLDs. Pricing centers on a median ask of $713.54, giving both investors and founders a clear reference point for negotiation. Examples such as abstract.tax, creative.review, and engineer.express show how single, dictionary-style words pair with varied extensions to create short, memorable domain names. Because TLD coverage is broad, matching a specific niche or industry extension is straightforward. Updated daily, this list reflects current asking prices, so the numbers you compare are always current.
 
-- 10,607 arts keyword domains in this selection
-- 505 TLDs creates wide quality and renewal variation
-- Median ask is 921.74 across the set
-- Check keyword fit first, then TLD credibility
+- 179,835 one-word Arts domain names across 506 TLDs
+- Median ask: $713.54 — a clear price benchmark here
+- Single dictionary words paired with niche and major TLDs
+- Updated daily so pricing and coverage stay current
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,14 +142,14 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Arts Keyword Domains*. Version 2026-05-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *One-Word Arts Domain Names — 506 TLDs, Updated Daily*. Version 2026-08-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
 
 ## 🔗 Related links
 
-- [Live search](https://unique.domains/domains/sector/Arts?utm_source=github&utm_medium=referral&utm_campaign=repo_arts_oneword_domains&utm_content=top_open_search)
+- [Live search](https://unique.domains/domains/sector/arts?utm_source=github&utm_medium=referral&utm_campaign=repo_arts_oneword_domains&utm_content=top_open_search)
 - [Technology and scoring](https://unique.domains/technology?utm_source=github&utm_medium=referral&utm_campaign=repo_arts_oneword_domains&utm_content=top_methodology)
 - [Pricing](https://unique.domains/pricing?utm_source=github&utm_medium=referral&utm_campaign=repo_arts_oneword_domains&utm_content=related_pricing)
 - [API docs](https://unique.domains/api?utm_source=github&utm_medium=referral&utm_campaign=repo_arts_oneword_domains&utm_content=top_api_docs)

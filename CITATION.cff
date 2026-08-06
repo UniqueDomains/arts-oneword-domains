@@ -1,12 +1,12 @@
 cff-version: 1.2.0
 message: "If you use this dataset, please cite it using the metadata below."
-title: "Arts Keyword Domains"
+title: "One-Word Arts Domain Names — 506 TLDs, Updated Daily"
 type: dataset
 authors:
   - name: "Unique Domains"
-version: "2026-05-26"
-date-released: "2026-05-26"
-url: "https://unique.domains/domains/sector/Arts"
+version: "2026-08-06"
+date-released: "2026-08-06"
+url: "https://unique.domains/domains/sector/arts"
 repository-code: "https://github.com/UniqueDomains/arts-oneword-domains"
 license: "See LICENSE"
 abstract: "Daily-updated public extract of arts one-word domains from Unique Domains."
