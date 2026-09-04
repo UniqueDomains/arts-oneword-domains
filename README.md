@@ -1,10 +1,10 @@
-# One-Word Arts Domain Names — 506 TLDs, Updated Daily (205,765)
+# One-Word Arts Domain Names — 506 TLDs, Updated Daily (208,111)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-205%2C765%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-208%2C111%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,9 +12,9 @@
 This selection includes 179,835 one-word Arts domain names across 506 TLDs, with a median ask of $713.54. Updated daily, it offers a price-transparent shortlist for comparing brandability, TLD coverage, and renewal costs before committing.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **205,765 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **208,111 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 205,765 domains · **Median ask:** $620.64 · **High-demand under $2,500:** 812
+**Public extract:** 1,000 rows · **Live catalog:** 208,111 domains · **Median ask:** $615.18 · **High-demand under $2,500:** 805
 
 **Last updated:** 2026-09-03
 **Canonical page:** `https://unique.domains/domains/sector/arts`
@@ -64,6 +64,7 @@ print(df.head())
 
 | domain           | status    | ask_price   | renewal_price | attractiveness | demand | length | registrar                  |
 | ---------------- | --------- | ----------- | ------------- | -------------- | ------ | ------ | -------------------------- |
+| room.management  | resell    | —           | —             | high           | low    | 4      | Porkbun LLC                |
 | bust.gallery     | available | $28.99      | $28.99        | high           | low    | 4      | namesilo                   |
 | room.co          | resell    | $172,371.20 | $48.99        | high           | low    | 4      | GoDaddy.com, LLC           |
 | art.red          | premium   | $780        | $780          | high           | medium | 3      | namecheap                  |
@@ -71,7 +72,7 @@ print(df.head())
 | room.me          | resell    | $25,286.20  | $27.99        | high           | low    | 4      | Dynadot Inc                |
 | art.shop         | premium   | $12,500     | —             | high           | medium | 3      | name.com                   |
 | bust.photo       | available | $29.99      | $29.99        | high           | low    | 4      | namesilo                   |
-| model.miami      | resell    | $22.99      | —             | high           | low    | 5      | GoDaddy.com, LLC           |
+| skill.pro        | resell    | $9,752      | $33.99        | high           | medium | 5      | Porkbun LLC                |
 | art.space        | premium   | $3,250      | $13,000       | high           | medium | 3      | namecheap                  |
 | clay.gallery     | available | $28.99      | $28.99        | high           | low    | 4      | namesilo                   |
 | artistic.pics    | resell    | $1.99       | —             | high           | low    | 8      | Spaceship, Inc.            |
@@ -83,7 +84,6 @@ print(df.head())
 | creative.red     | resell    | $5,290      | $29.99        | high           | medium | 8      | Squarespace Domains II LLC |
 | arts.space       | premium   | $3,500      | $14,000       | high           | low    | 4      | namecheap                  |
 | clay.ryukyu      | available | $22.98      | —             | high           | low    | 4      | namecheap                  |
-| art.gallery      | resell    | —           | —             | high           | low    | 3      | 1API GmbH                  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 205,765 live domains                       |
+| 1,000-row public sample | 208,111 live domains                       |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 812 high-demand names under $2,500         |
+| Basic exported fields   | 805 high-demand names under $2,500         |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
