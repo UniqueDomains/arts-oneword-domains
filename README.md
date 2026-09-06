@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain           | status    | ask_price   | renewal_price | attractiveness | demand | length | registrar                  |
-| ---------------- | --------- | ----------- | ------------- | -------------- | ------ | ------ | -------------------------- |
-| room.management  | resell    | —           | —             | high           | low    | 4      | Porkbun LLC                |
-| bust.gallery     | available | $28.99      | $28.99        | high           | low    | 4      | namesilo                   |
-| room.co          | resell    | $172,371.20 | $48.99        | high           | low    | 4      | GoDaddy.com, LLC           |
-| art.red          | premium   | $780        | $780          | high           | medium | 3      | namecheap                  |
-| bust.graphics    | available | $23.99      | $23.99        | high           | low    | 4      | namesilo                   |
-| room.me          | resell    | $25,286.20  | $27.99        | high           | low    | 4      | Dynadot Inc                |
-| art.shop         | premium   | $12,500     | —             | high           | medium | 3      | name.com                   |
-| bust.photo       | available | $29.99      | $29.99        | high           | low    | 4      | namesilo                   |
-| skill.pro        | resell    | $9,752      | $33.99        | high           | medium | 5      | Porkbun LLC                |
-| art.space        | premium   | $3,250      | $13,000       | high           | medium | 3      | namecheap                  |
-| clay.gallery     | available | $28.99      | $28.99        | high           | low    | 4      | namesilo                   |
-| artistic.pics    | resell    | $1.99       | —             | high           | low    | 8      | Spaceship, Inc.            |
-| arts.photo       | premium   | $116        | $116          | high           | low    | 4      | namesilo                   |
-| clay.photography | available | $9.99       | —             | high           | low    | 4      | name.com                   |
-| creative.blue    | resell    | $9,775      | $35.99        | high           | medium | 8      | Squarespace Domains II LLC |
-| arts.photos      | premium   | $23.60      | $23.60        | high           | low    | 4      | namesilo                   |
-| clay.pictures    | available | $9.99       | —             | high           | low    | 4      | name.com                   |
-| creative.red     | resell    | $5,290      | $29.99        | high           | medium | 8      | Squarespace Domains II LLC |
-| arts.space       | premium   | $3,500      | $14,000       | high           | low    | 4      | namecheap                  |
-| clay.ryukyu      | available | $22.98      | —             | high           | low    | 4      | namecheap                  |
+| domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                               |
+| -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------------------------------- |
+| arts.ryukyu    | available | $22.98    | —             | high           | low    | 4      | namecheap                                               |
+| art.works      | resell    | —         | —             | high           | medium | 3      | Porkbun LLC                                             |
+| draws.art      | premium   | $291.20   | $83.30        | medium         | low    | 5      | namesilo                                                |
+| wall.ryukyu    | available | $22.98    | —             | high           | low    | 4      | namecheap                                               |
+| arts.world     | resell    | —         | —             | high           | low    | 4      | Porkbun LLC                                             |
+| movie.shop     | premium   | $6,250    | —             | high           | low    | 5      | name.com                                                |
+| work.ryukyu    | available | $22.98    | —             | high           | medium | 4      | namecheap                                               |
+| draw.studio    | resell    | —         | —             | high           | low    | 4      | Sav.com, LLC                                            |
+| mural.art      | premium   | $1,662.50 | $83.30        | medium         | low    | 5      | namesilo                                                |
+| brush.ryukyu   | available | $22.98    | —             | medium         | low    | 5      | namecheap                                               |
+| film.kim       | resell    | —         | —             | high           | low    | 4      | Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn) |
+| mural.bond     | premium   | $46.61    | $94.80        | medium         | low    | 5      | namesilo                                                |
+| draws.beer     | available | $1.98     | $43.98        | medium         | low    | 5      | namecheap                                               |
+| wall.school    | resell    | —         | —             | high           | low    | 4      | Sav.com, LLC - 9                                        |
+| mural.boo      | premium   | $76.70    | $76.70        | medium         | low    | 5      | namecheap                                               |
+| draws.cars     | available | $1,999.99 | $2,199        | medium         | low    | 5      | namesilo                                                |
+| craft.pictures | resell    | —         | —             | high           | medium | 5      | Dynadot Inc                                             |
+| mural.buzz     | premium   | $116      | $53.92        | medium         | low    | 5      | namesilo                                                |
+| draws.design   | available | $12.98    | $68.98        | medium         | low    | 5      | namecheap                                               |
+| draws.ai       | resell    | —         | —             | medium         | low    | 5      | NameCheap, Inc.                                         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
