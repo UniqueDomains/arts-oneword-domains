@@ -16,7 +16,7 @@ This selection includes 179,835 one-word Arts domain names across 506 TLDs, with
 
 **Public extract:** 1,000 rows · **Live catalog:** 208,771 domains · **Median ask:** $613.55 · **High-demand under $2,500:** 805
 
-**Last updated:** 2026-09-07
+**Last updated:** 2026-09-08
 **Canonical page:** `https://unique.domains/domains/sector/arts`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain           | status    | ask_price  | renewal_price | attractiveness | demand | length | registrar                                               |
-| ---------------- | --------- | ---------- | ------------- | -------------- | ------ | ------ | ------------------------------------------------------- |
-| clay.gallery     | available | $28.99     | $28.99        | high           | low    | 4      | namesilo                                                |
-| room.me          | resell    | $25,286.20 | $27.99        | high           | low    | 4      | Dynadot Inc                                             |
-| art.space        | premium   | $3,250     | $13,000       | high           | medium | 3      | namecheap                                               |
-| clay.photography | available | $9.99      | —             | high           | low    | 4      | name.com                                                |
-| artistic.pics    | resell    | $1.99      | —             | high           | low    | 8      | Spaceship, Inc.                                         |
-| arts.photo       | premium   | $116       | $116          | high           | low    | 4      | namesilo                                                |
-| clay.pictures    | available | $9.99      | —             | high           | low    | 4      | name.com                                                |
-| art.gallery      | resell    | —          | —             | high           | low    | 3      | 1API GmbH                                               |
-| arts.photos      | premium   | $23.60     | $23.60        | high           | low    | 4      | namesilo                                                |
-| clay.ryukyu      | available | $22.98     | —             | high           | low    | 4      | namecheap                                               |
-| art.zone         | resell    | —          | —             | high           | medium | 3      | Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn) |
-| clay.photo       | premium   | $116       | $116          | high           | low    | 4      | namesilo                                                |
-| draw.photography | available | $9.99      | —             | high           | low    | 4      | name.com                                                |
-| arts.pictures    | resell    | —          | —             | high           | low    | 4      | GoDaddy.com, LLC                                        |
-| draw.graphics    | premium   | $500       | —             | high           | low    | 4      | name.com                                                |
-| film.pink        | available | $14.99     | —             | high           | low    | 4      | name.com                                                |
-| clay.gg          | resell    | —          | —             | high           | low    | 4      | NameCheap, Inc (https://www.namecheap.com)              |
-| draw.shop        | premium   | $1,107     | $1,107        | high           | low    | 4      | namesilo                                                |
-| fine.photo       | available | $39.99     | $39.99        | high           | low    | 4      | name.com                                                |
-| clay.pro         | resell    | —          | —             | high           | low    | 4      | Chengdu West Dimension Digital Technology Co., Ltd.     |
+| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                               |
+| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------------------------------- |
+| room.graphics    | available | $23.99    | $23.99        | high           | low    | 4      | namesilo                                                |
+| draw.studio      | resell    | —         | —             | high           | low    | 4      | Sav.com, LLC                                            |
+| film.shop        | premium   | $12,500   | —             | high           | low    | 4      | name.com                                                |
+| room.photography | available | $9.99     | —             | high           | low    | 4      | name.com                                                |
+| draw.team        | resell    | —         | —             | high           | low    | 4      | Sav.com, LLC - 42                                       |
+| note.space       | premium   | $175      | $700          | high           | low    | 4      | namecheap                                               |
+| room.pictures    | available | $9.99     | —             | high           | low    | 4      | name.com                                                |
+| film.kim         | resell    | —         | —             | high           | low    | 4      | Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn) |
+| room.art         | premium   | $3,450    | $83.30        | high           | low    | 4      | namesilo                                                |
+| tent.pictures    | available | $14.99    | $18.99        | medium         | low    | 4      | name.com                                                |
+| hall.shop        | resell    | —         | —             | high           | low    | 4      | ALIBABA.COM SINGAPORE E-COMMERCE PRIVATE LIMITED        |
+| room.gallery     | premium   | $78.54    | $78.54        | high           | low    | 4      | namesilo                                                |
+| wall.ryukyu      | available | $22.98    | —             | high           | low    | 4      | namecheap                                               |
+| show.cc          | resell    | —         | —             | high           | low    | 4      | GoDaddy.com, LLC                                        |
+| room.photo       | premium   | $116      | $116          | high           | low    | 4      | namesilo                                                |
+| draws.actor      | available | $11.98    | $54.98        | medium         | low    | 5      | namecheap                                               |
+| craft.pictures   | resell    | —         | —             | high           | medium | 5      | Dynadot Inc                                             |
+| room.photos      | premium   | $118.80   | $118.80       | high           | low    | 4      | namesilo                                                |
+| draws.blue       | available | $13.98    | $32.98        | medium         | low    | 5      | namecheap                                               |
+| model.agency     | resell    | —         | —             | medium         | low    | 5      | GoDaddy.com, LLC                                        |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *One-Word Arts Domain Names — 506 TLDs, Updated Daily*. Version 2026-09-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *One-Word Arts Domain Names — 506 TLDs, Updated Daily*. Version 2026-09-08. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
