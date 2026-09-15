@@ -1,10 +1,10 @@
-# One-Word Arts Domain Names — 506 TLDs, Updated Daily (215,893)
+# One-Word Arts Domain Names — 506 TLDs, Updated Daily (219,926)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-215%2C893%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-219%2C926%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 This selection includes 179,835 one-word Arts domain names across 506 TLDs, with a median ask of $713.54. Updated daily, it offers a price-transparent shortlist for comparing brandability, TLD coverage, and renewal costs before committing.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **215,893 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **219,926 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 215,893 domains · **Median ask:** $597.15 · **High-demand under $2,500:** 796
+**Public extract:** 1,000 rows · **Live catalog:** 219,926 domains · **Median ask:** $588.33 · **High-demand under $2,500:** 784
 
-**Last updated:** 2026-09-14
+**Last updated:** 2026-09-15
 **Canonical page:** `https://unique.domains/domains/sector/arts`
 **Best for:** founders, investors, studios
 
@@ -71,19 +71,19 @@ print(df.head())
 | arts.works     | resell    | —         | —             | medium         | low    | 4      | Dynadot Inc                                             |
 | image.sale     | premium   | $118.80   | $118.80       | medium         | medium | 5      | namesilo                                                |
 | room.cheap     | available | $5.98     | $49.98        | medium         | low    | 4      | namecheap                                               |
-| arts.world     | resell    | —         | —             | high           | low    | 4      | Porkbun LLC                                             |
+| draw.studio    | resell    | —         | —             | high           | low    | 4      | Sav.com, LLC                                            |
+| image.tel      | premium   | $10.62    | $10.62        | medium         | medium | 5      | namesilo                                                |
+| tent.graphics  | available | $22.98    | $31.98        | medium         | low    | 4      | namecheap                                               |
+| film.kim       | resell    | —         | —             | high           | low    | 4      | Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn) |
 | movie.shop     | premium   | $6,250    | —             | high           | low    | 5      | name.com                                                |
 | wall.ryukyu    | available | $22.98    | —             | high           | low    | 4      | namecheap                                               |
-| draw.studio    | resell    | —         | —             | high           | low    | 4      | Sav.com, LLC                                            |
-| mural.art      | premium   | $1,662.50 | $83.30        | medium         | low    | 5      | namesilo                                                |
-| work.ryukyu    | available | $22.98    | —             | high           | medium | 4      | namecheap                                               |
-| film.kim       | resell    | —         | —             | high           | low    | 4      | Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn) |
-| mural.boo      | premium   | $76.70    | $76.70        | medium         | low    | 5      | namecheap                                               |
-| brush.ryukyu   | available | $22.98    | —             | medium         | low    | 5      | namecheap                                               |
 | wall.school    | resell    | —         | —             | high           | low    | 4      | Sav.com, LLC - 9                                        |
+| mural.art      | premium   | $1,662.50 | $83.30        | medium         | low    | 5      | namesilo                                                |
+| brush.ryukyu   | available | $22.98    | —             | medium         | low    | 5      | namecheap                                               |
+| craft.pictures | resell    | —         | —             | high           | medium | 5      | Dynadot Inc                                             |
 | mural.buzz     | premium   | $116      | $53.92        | medium         | low    | 5      | namesilo                                                |
 | draws.beer     | available | $1.98     | $43.98        | medium         | low    | 5      | namecheap                                               |
-| craft.pictures | resell    | —         | —             | high           | medium | 5      | Dynadot Inc                                             |
+| draws.us       | resell    | —         | —             | medium         | low    | 5      | Dynadot Inc                                             |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 215,893 live domains                       |
+| 1,000-row public sample | 219,926 live domains                       |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 796 high-demand names under $2,500         |
+| Basic exported fields   | 784 high-demand names under $2,500         |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *One-Word Arts Domain Names — 506 TLDs, Updated Daily*. Version 2026-09-14. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *One-Word Arts Domain Names — 506 TLDs, Updated Daily*. Version 2026-09-15. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
