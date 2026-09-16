@@ -16,7 +16,7 @@ This selection includes 179,835 one-word Arts domain names across 506 TLDs, with
 
 **Public extract:** 1,000 rows · **Live catalog:** 219,926 domains · **Median ask:** $588.33 · **High-demand under $2,500:** 784
 
-**Last updated:** 2026-09-15
+**Last updated:** 2026-09-16
 **Canonical page:** `https://unique.domains/domains/sector/arts`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                               |
-| -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------------------------------- |
-| arts.ryukyu    | available | $22.98    | —             | high           | low    | 4      | namecheap                                               |
-| art.works      | resell    | —         | —             | high           | medium | 3      | Porkbun LLC                                             |
-| draws.art      | premium   | $291.20   | $83.30        | medium         | low    | 5      | namesilo                                                |
-| room.ceo       | available | $9.99     | $146.98       | medium         | low    | 4      | namecheap                                               |
-| arts.works     | resell    | —         | —             | medium         | low    | 4      | Dynadot Inc                                             |
-| image.sale     | premium   | $118.80   | $118.80       | medium         | medium | 5      | namesilo                                                |
-| room.cheap     | available | $5.98     | $49.98        | medium         | low    | 4      | namecheap                                               |
-| draw.studio    | resell    | —         | —             | high           | low    | 4      | Sav.com, LLC                                            |
-| image.tel      | premium   | $10.62    | $10.62        | medium         | medium | 5      | namesilo                                                |
-| tent.graphics  | available | $22.98    | $31.98        | medium         | low    | 4      | namecheap                                               |
-| film.kim       | resell    | —         | —             | high           | low    | 4      | Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn) |
-| movie.shop     | premium   | $6,250    | —             | high           | low    | 5      | name.com                                                |
-| wall.ryukyu    | available | $22.98    | —             | high           | low    | 4      | namecheap                                               |
-| wall.school    | resell    | —         | —             | high           | low    | 4      | Sav.com, LLC - 9                                        |
-| mural.art      | premium   | $1,662.50 | $83.30        | medium         | low    | 5      | namesilo                                                |
-| brush.ryukyu   | available | $22.98    | —             | medium         | low    | 5      | namecheap                                               |
-| craft.pictures | resell    | —         | —             | high           | medium | 5      | Dynadot Inc                                             |
-| mural.buzz     | premium   | $116      | $53.92        | medium         | low    | 5      | namesilo                                                |
-| draws.beer     | available | $1.98     | $43.98        | medium         | low    | 5      | namecheap                                               |
-| draws.us       | resell    | —         | —             | medium         | low    | 5      | Dynadot Inc                                             |
+| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                   |
+| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------------------- |
+| art.accountants | available | $43.99    | —             | high           | medium | 3      | name.com                                    |
+| art.ac          | resell    | —         | —             | high           | medium | 3      | Porkbun LLC                                 |
+| art.accountant  | premium   | $650      | $84.50        | high           | medium | 3      | namecheap                                   |
+| art.airforce    | available | $103.99   | $103.99       | high           | medium | 3      | namesilo                                    |
+| art.academy     | resell    | —         | —             | high           | medium | 3      | Dynadot Inc                                 |
+| art.actor       | premium   | $85.80    | $85.80        | high           | medium | 3      | namecheap                                   |
+| art.auto        | available | $1,999.99 | $2,199        | high           | medium | 3      | namesilo                                    |
+| art.adult       | resell    | —         | —             | high           | medium | 3      | Name.com, Inc.                              |
+| art.apartments  | premium   | $85.80    | $85.80        | high           | medium | 3      | namecheap                                   |
+| art.car         | available | $1,999.99 | $2,199        | high           | medium | 3      | namesilo                                    |
+| art.agency      | resell    | —         | —             | high           | medium | 3      | GoDaddy Online Services Cayman Islands Ltd. |
+| art.associates  | premium   | $520      | $520          | high           | medium | 3      | namecheap                                   |
+| art.cars        | available | $1,999.99 | $2,199        | high           | medium | 3      | namesilo                                    |
+| art.ai          | resell    | —         | —             | high           | medium | 3      | Dynadot Inc                                 |
+| art.attorney    | premium   | $520      | $520          | high           | medium | 3      | namecheap                                   |
+| art.democrat    | available | $9.99     | —             | high           | medium | 3      | name.com                                    |
+| art.app         | resell    | —         | —             | high           | medium | 3      | GoDaddy.com, LLC                            |
+| art.autos       | premium   | $2,600    | $2,600        | high           | medium | 3      | namecheap                                   |
+| art.desi        | available | $22.98    | —             | high           | medium | 3      | namecheap                                   |
+| art.band        | resell    | —         | —             | high           | medium | 3      | Spaceship, Inc.                             |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -115,6 +115,7 @@ If this sample already feels useful, Unique Domains is where the exact search be
 - `registrar`, Registrar name when known.
 - `created_at`, Creation timestamp when known.
 - `expires_at`, Expiry timestamp when known.
+- `status_verified_at`, When status was last established against the registry. Null means never checked.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
@@ -132,6 +133,7 @@ See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 ## 🔄 Update policy
 
 - This repository is refreshed regularly from the same export pipeline used for public dataset repos.
+- The snapshot date above is when this file was written, not when each row was checked. Read `status_verified_at` for that: a name whose status was last established months ago is exported with its real date rather than the snapshot's.
 - The README count targets the live catalog count from the public landing response when available.
 - The CSV and JSON files contain the public extract only and may not match the full live catalog size.
 - Stable historical references should be published via GitHub Releases outside this repository snapshot.
@@ -142,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *One-Word Arts Domain Names — 506 TLDs, Updated Daily*. Version 2026-09-15. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *One-Word Arts Domain Names — 506 TLDs, Updated Daily*. Version 2026-09-16. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
