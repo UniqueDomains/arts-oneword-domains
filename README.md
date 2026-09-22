@@ -1,10 +1,10 @@
-# One-Word Arts Domain Names — 506 TLDs, Updated Daily (58,370)
+# One-Word Arts Domain Names — 506 TLDs, Updated Daily (61,104)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-58%2C370%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-61%2C104%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 This selection includes 179,835 one-word Arts domain names across 506 TLDs, with a median ask of $713.54. Updated daily, it offers a price-transparent shortlist for comparing brandability, TLD coverage, and renewal costs before committing.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **58,370 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **61,104 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 58,370 domains · **Median ask:** $639.70 · **High-demand under $2,500:** 130
+**Public extract:** 1,000 rows · **Live catalog:** 61,104 domains · **Median ask:** $619.00 · **High-demand under $2,500:** 131
 
-**Last updated:** 2026-09-20
+**Last updated:** 2026-09-22
 **Canonical page:** `https://unique.domains/domains/sector/arts`
 **Best for:** founders, investors, studios
 
@@ -81,7 +81,7 @@ print(df.head())
 | beauty.dating   | resell    | $23.99    | —             | high           | low    | 6      | name.com          |
 | art.attorney    | premium   | $512      | $512          | medium         | low    | 3      | namesilo          |
 | art.democrat    | available | $9.99     | $43.99        | medium         | low    | 3      | name.com          |
-| art.adult       | resell    | —         | —             | medium         | low    | 3      | Name.com, Inc.    |
+| beauty.hiphop   | resell    | $23.99    | $23.99        | high           | low    | 6      | namesilo          |
 | art.autos       | premium   | $2,660    | $2,660        | medium         | low    | 3      | namesilo          |
 | art.desi        | available | $19.98    | $22.98        | medium         | low    | 3      | namecheap         |
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 58,370 live domains                        |
+| 1,000-row public sample | 61,104 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 130 high-demand names under $2,500         |
+| Basic exported fields   | 131 high-demand names under $2,500         |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *One-Word Arts Domain Names — 506 TLDs, Updated Daily*. Version 2026-09-20. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *One-Word Arts Domain Names — 506 TLDs, Updated Daily*. Version 2026-09-22. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
