@@ -1,10 +1,10 @@
-# One-Word Arts Domain Names — 506 TLDs, Updated Daily (62,366)
+# One-Word Arts Domain Names — 506 TLDs, Updated Daily (42,098)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-62%2C366%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-42%2C098%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 This selection includes 179,835 one-word Arts domain names across 506 TLDs, with a median ask of $713.54. Updated daily, it offers a price-transparent shortlist for comparing brandability, TLD coverage, and renewal costs before committing.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **62,366 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **42,098 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 62,366 domains · **Median ask:** $618.78 · **High-demand under $2,500:** 118
+**Public extract:** 1,000 rows · **Live catalog:** 42,098 domains · **Median ask:** $562.76 · **High-demand under $2,500:** 118
 
-**Last updated:** 2026-09-23
+**Last updated:** 2026-09-24
 **Canonical page:** `https://unique.domains/domains/sector/arts`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
-| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
-| lab.audio       | available | $104.99   | $114.99       | high           | medium | 3      | namesilo                                                  |
-| art.camera      | resell    | —         | —             | medium         | low    | 3      | Global Domains International, Inc. DBA DomainCostClub.com |
-| art.bio         | premium   | $1,040    | $1,040        | medium         | low    | 3      | namecheap                                                 |
-| plan.claims     | available | $11.98    | $82.98        | low            | low    | 4      | namecheap                                                 |
-| art.design      | resell    | —         | —             | medium         | low    | 3      | Go France Domains Inc                                     |
-| art.black       | premium   | $2,600    | $2,600        | medium         | low    | 3      | namecheap                                                 |
-| plan.cleaning   | available | $75.49    | $75.49        | low            | low    | 4      | namesilo                                                  |
-| art.engineering | resell    | —         | —             | medium         | low    | 3      | Global Domains International, Inc. DBA DomainCostClub.com |
-| art.fans        | premium   | $384      | $384          | medium         | low    | 3      | namesilo                                                  |
-| plan.community  | available | $45.99    | $45.99        | low            | low    | 4      | namesilo                                                  |
-| art.gallery     | resell    | —         | —             | medium         | low    | 3      | 1API GmbH                                                 |
-| art.red         | premium   | $768      | $768          | medium         | low    | 3      | namesilo                                                  |
-| plan.forex      | available | $11.98    | $133.98       | low            | low    | 4      | namecheap                                                 |
-| art.golf        | resell    | —         | —             | medium         | low    | 3      | Global Domains International, Inc. DBA DomainCostClub.com |
-| art.shop        | premium   | $12,500   | $12,500       | medium         | low    | 3      | name.com                                                  |
-| plan.lighting   | available | $23.99    | $23.99        | medium         | low    | 4      | namesilo                                                  |
-| art.land        | resell    | —         | —             | medium         | low    | 3      | Global Domains International, Inc. DBA DomainCostClub.com |
-| art.space       | premium   | $13,800   | $13,800       | medium         | low    | 3      | namesilo                                                  |
-| plan.photos     | available | $15.99    | $29.99        | low            | low    | 4      | namesilo                                                  |
-| art.miami       | resell    | —         | —             | medium         | low    | 3      | GoDaddy.com, LLC                                          |
+| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                          |
+| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------------------------- |
+| book.movie        | available | $47.99    | $349.99       | high           | medium | 4      | namesilo                           |
+| frame.bot         | resell    | —         | —             | high           | low    | 5      | Porkbun LLC                        |
+| draw.shop         | premium   | $1,107    | $1,107        | high           | low    | 4      | namesilo                           |
+| book.tienda       | available | $59.99    | $59.99        | high           | medium | 4      | namesilo                           |
+| mural.biz         | resell    | —         | —             | high           | low    | 5      | Porkbun                            |
+| face.shop         | premium   | $3,250    | $3,250        | high           | low    | 4      | namecheap                          |
+| draws.studio      | available | $12.98    | $52.98        | high           | low    | 5      | namecheap                          |
+| mural.city        | resell    | —         | —             | high           | low    | 5      | DNSPod, Inc.                       |
+| mural.date        | premium   | $384      | $53.92        | high           | low    | 5      | namesilo                           |
+| mural.academy     | available | $8.48     | $59.98        | high           | low    | 5      | namecheap                          |
+| artist.baby       | resell    | —         | —             | high           | low    | 6      | Dynadot Inc                        |
+| mural.diy         | premium   | $455      | $650          | high           | low    | 5      | namecheap                          |
+| mural.accountants | available | $117.99   | $117.99       | high           | low    | 5      | namesilo                           |
+| artist.best       | resell    | —         | —             | high           | low    | 6      | Global Domains International, Inc. |
+| mural.faith       | premium   | $116      | $29.50        | high           | low    | 5      | namesilo                           |
+| mural.actor       | available | $9.48     | $54.98        | high           | low    | 5      | namecheap                          |
+| artist.bet        | resell    | —         | —             | high           | low    | 6      | Sav.com, LLC                       |
+| mural.foo         | premium   | $323.70   | $323.70       | high           | low    | 5      | namecheap                          |
+| mural.airforce    | available | $103.99   | $103.99       | high           | low    | 5      | namesilo                           |
+| artist.blue       | resell    | —         | —             | high           | low    | 6      | Automattic Inc.                    |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 62,366 live domains                        |
+| 1,000-row public sample | 42,098 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 118 high-demand names under $2,500         |
 | No persistence          | Radar, saved search, and alerts            |
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *One-Word Arts Domain Names — 506 TLDs, Updated Daily*. Version 2026-09-23. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *One-Word Arts Domain Names — 506 TLDs, Updated Daily*. Version 2026-09-24. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
