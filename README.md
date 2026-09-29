@@ -1,10 +1,10 @@
-# One-Word Arts Domain Names — 506 TLDs, Updated Daily (74,381)
+# One-Word Arts Domain Names — 506 TLDs, Updated Daily (80,077)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-74%2C381%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-80%2C077%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,9 +12,9 @@
 This selection includes 179,835 one-word Arts domain names across 506 TLDs, with a median ask of $713.54. Updated daily, it offers a price-transparent shortlist for comparing brandability, TLD coverage, and renewal costs before committing.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **74,381 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **80,077 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 74,381 domains · **Median ask:** $446.63 · **High-demand under $2,500:** 173
+**Public extract:** 1,000 rows · **Live catalog:** 80,077 domains · **Median ask:** $426.57 · **High-demand under $2,500:** 118
 
 **Last updated:** 2026-09-28
 **Canonical page:** `https://unique.domains/domains/sector/arts`
@@ -64,11 +64,14 @@ print(df.head())
 
 | domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                   |
 | --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------------------- |
+| studio.democrat | available | $7.25     | $32.99        | high           | medium | 6      | namesilo                                    |
+| music.theater   | premium   | $512      | $512          | high           | medium | 5      | namesilo                                    |
+| creative.bayern | available | $34.99    | $34.99        | high           | medium | 8      | namesilo                                    |
 | art.accountants | available | $117.99   | $117.99       | high           | medium | 3      | namesilo                                    |
-| arts.trade      | resell    | $3,942.02 | —             | high           | low    | 4      | Spaceship, Inc.                             |
+| craft.limited   | resell    | $14.99    | $52.99        | high           | medium | 5      | Dynadot Inc                                 |
 | art.accountant  | premium   | $546.35   | $71.48        | high           | medium | 3      | porkbun                                     |
 | art.airforce    | available | $85.82    | $85.82        | high           | medium | 3      | dynadot                                     |
-| creative.surf   | resell    | $2.19     | $32.49        | high           | medium | 8      | GoDaddy.com, LLC                            |
+| artistic.pics   | resell    | $1.99     | —             | high           | low    | 8      | Spaceship, Inc.                             |
 | art.actor       | premium   | $72.60    | $72.60        | high           | medium | 3      | dynadot                                     |
 | art.auto        | available | $1,999.99 | $2,199        | high           | medium | 3      | namesilo                                    |
 | art.adult       | resell    | —         | —             | high           | medium | 3      | Name.com, Inc.                              |
@@ -81,9 +84,6 @@ print(df.head())
 | art.attorney    | premium   | $414.20   | $414.20       | high           | medium | 3      | spaceship                                   |
 | art.democrat    | available | $7.25     | $32.99        | high           | medium | 3      | namesilo                                    |
 | art.band        | resell    | —         | —             | high           | medium | 3      | Spaceship, Inc.                             |
-| art.autos       | premium   | $2,070.20 | $2,070.20     | high           | medium | 3      | spaceship                                   |
-| art.desi        | available | $19.98    | $22.98        | high           | medium | 3      | namecheap                                   |
-| art.best        | resell    | —         | —             | high           | medium | 3      | Dynadot Inc                                 |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 74,381 live domains                        |
+| 1,000-row public sample | 80,077 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 173 high-demand names under $2,500         |
+| Basic exported fields   | 118 high-demand names under $2,500         |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
