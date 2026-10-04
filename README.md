@@ -1,10 +1,10 @@
-# One-Word Arts Domain Names — 506 TLDs, Updated Daily (95,880)
+# One-Word Arts Domain Names — 506 TLDs, Updated Daily (98,213)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-95%2C880%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-98%2C213%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,9 +12,9 @@
 This selection includes 179,835 one-word Arts domain names across 506 TLDs, with a median ask of $713.54. Updated daily, it offers a price-transparent shortlist for comparing brandability, TLD coverage, and renewal costs before committing.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **95,880 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **98,213 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 95,880 domains · **Median ask:** $360.33 · **High-demand under $2,500:** 300
+**Public extract:** 1,000 rows · **Live catalog:** 98,213 domains · **Median ask:** $353.54 · **High-demand under $2,500:** 296
 
 **Last updated:** 2026-10-03
 **Canonical page:** `https://unique.domains/domains/sector/arts`
@@ -25,7 +25,7 @@ This selection includes 179,835 one-word Arts domain names across 506 TLDs, with
 <p align="center">
   <a href="https://unique.domains/domains/sector/arts?utm_source=github&utm_medium=referral&utm_campaign=repo_arts_oneword_domains&utm_content=top_open_search"><b>🗂️ Open live database</b></a> ·
   <b>⬇️ Download sample</b>: <a href="./arts.csv">CSV</a> / <a href="./arts.json">JSON</a>
-  · <a href="https://unique.domains/product/data?utm_source=github&utm_medium=referral&utm_campaign=repo_arts_oneword_domains&utm_content=top_methodology"><b>🧪 Methodology</b></a>
+  · <a href="https://unique.domains/glossary?utm_source=github&utm_medium=referral&utm_campaign=repo_arts_oneword_domains&utm_content=top_methodology"><b>📖 Glossary</b></a>
   · <a href="https://unique.domains/api?utm_source=github&utm_medium=referral&utm_campaign=repo_arts_oneword_domains&utm_content=top_api_docs"><b>🧰 API docs</b></a>
 </p>
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain              | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                 |
-| ------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------------------------------- |
-| art.accountants     | available | $117.99   | $117.99       | high           | medium | 3      | namesilo                                  |
-| arts.cards          | resell    | $3.99     | —             | high           | low    | 4      | Sav.com, LLC                              |
-| art.accountant      | premium   | $517.70   | $67.48        | high           | medium | 3      | spaceship                                 |
-| art.airforce        | available | $103.99   | $103.99       | high           | medium | 3      | namesilo                                  |
-| arts.trade          | resell    | $3,942.02 | —             | high           | low    | 4      | Spaceship, Inc.                           |
-| art.actor           | premium   | $36.32    | $72.57        | high           | medium | 3      | porkbun                                   |
-| art.auto            | available | $1,863.20 | $2,064.20     | high           | medium | 3      | spaceship                                 |
-| artistry.homes      | resell    | $1.99     | $15.75        | high           | medium | 8      | Spaceship, Inc.                           |
-| art.apartments      | premium   | $68.51    | $68.51        | high           | medium | 3      | spaceship                                 |
-| art.car             | available | $1,863.20 | $2,064.20     | high           | medium | 3      | spaceship                                 |
-| creative.blue       | resell    | $9,775    | $35.99        | high           | medium | 8      | Squarespace Domains II LLC                |
-| art.associates      | premium   | $414.20   | $414.20       | high           | medium | 3      | spaceship                                 |
-| art.cars            | available | $1,863.20 | $2,064.20     | high           | medium | 3      | spaceship                                 |
-| creative.industries | resell    | $78.54    | $78.54        | high           | medium | 8      | Porkbun LLC                               |
-| art.attorney        | premium   | $512      | $512          | high           | medium | 3      | namesilo                                  |
-| art.democrat        | available | $5.66     | $26.26        | high           | medium | 3      | porkbun                                   |
-| creative.red        | resell    | $5,290    | $29.99        | high           | medium | 8      | Squarespace Domains II LLC                |
-| art.autos           | premium   | $2,200    | $2,200        | high           | medium | 3      | dynadot                                   |
-| art.desi            | available | $19.98    | $22.98        | high           | medium | 3      | namecheap                                 |
-| painting.gg         | resell    | $82.98    | —             | high           | low    | 8      | GoDaddy.com LLC (https://www.godaddy.com) |
+| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                   |
+| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------------------- |
+| art.accountants | available | $117.99   | $117.99       | high           | medium | 3      | namesilo                                    |
+| arts.cards      | resell    | $3.99     | —             | high           | low    | 4      | Sav.com, LLC                                |
+| art.accountant  | premium   | $517.70   | $67.48        | high           | medium | 3      | spaceship                                   |
+| art.airforce    | available | $103.99   | $103.99       | high           | medium | 3      | namesilo                                    |
+| arts.trade      | resell    | $3,942.02 | —             | high           | low    | 4      | Spaceship, Inc.                             |
+| art.actor       | premium   | $36.32    | $72.57        | high           | medium | 3      | porkbun                                     |
+| art.auto        | available | $1,863.20 | $2,064.20     | high           | medium | 3      | spaceship                                   |
+| artistry.homes  | resell    | $1.99     | $15.75        | high           | medium | 8      | Spaceship, Inc.                             |
+| art.apartments  | premium   | $68.51    | $68.51        | high           | medium | 3      | spaceship                                   |
+| art.car         | available | $1,863.20 | $2,064.20     | high           | medium | 3      | spaceship                                   |
+| creative.blue   | resell    | $9,775    | $35.99        | high           | medium | 8      | Squarespace Domains II LLC                  |
+| art.associates  | premium   | $414.20   | $414.20       | high           | medium | 3      | spaceship                                   |
+| art.cars        | available | $1,863.20 | $2,064.20     | high           | medium | 3      | spaceship                                   |
+| painting.gg     | resell    | $82.98    | —             | high           | low    | 8      | GoDaddy.com LLC (https://www.godaddy.com)   |
+| art.attorney    | premium   | $512      | $512          | high           | medium | 3      | namesilo                                    |
+| art.democrat    | available | $5.66     | $26.26        | high           | medium | 3      | porkbun                                     |
+| art.adult       | resell    | —         | —             | high           | medium | 3      | Name.com, Inc.                              |
+| art.autos       | premium   | $2,200    | $2,200        | high           | medium | 3      | dynadot                                     |
+| art.desi        | available | $19.98    | $22.98        | high           | medium | 3      | namecheap                                   |
+| art.agency      | resell    | —         | —             | high           | medium | 3      | GoDaddy Online Services Cayman Islands Ltd. |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                       |
 | ----------------------- | ---------------------------------------------------- |
-| 1,000-row public sample | 95,880 live domains                                  |
+| 1,000-row public sample | 98,213 live domains                                  |
 | Static CSV / JSON       | live search and daily refresh                        |
-| Basic exported fields   | 300 high-demand names under $2,500                   |
+| Basic exported fields   | 296 high-demand names under $2,500                   |
 | No persistence          | Radar, saved search, and alerts                      |
 | No naming workflow      | Radar from a naming brief, shortlist, and next steps |
 
@@ -152,7 +152,7 @@ GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 ## 🔗 Related links
 
 - [Live search](https://unique.domains/domains/sector/arts?utm_source=github&utm_medium=referral&utm_campaign=repo_arts_oneword_domains&utm_content=top_open_search)
-- [How the data is built](https://unique.domains/product/data?utm_source=github&utm_medium=referral&utm_campaign=repo_arts_oneword_domains&utm_content=top_methodology)
+- [Glossary](https://unique.domains/glossary?utm_source=github&utm_medium=referral&utm_campaign=repo_arts_oneword_domains&utm_content=top_methodology)
 - [Pricing](https://unique.domains/pricing?utm_source=github&utm_medium=referral&utm_campaign=repo_arts_oneword_domains&utm_content=related_pricing)
 - [API docs](https://unique.domains/api?utm_source=github&utm_medium=referral&utm_campaign=repo_arts_oneword_domains&utm_content=top_api_docs)
 - [Main catalog repo](https://github.com/UniqueDomains/oneword-domains)
