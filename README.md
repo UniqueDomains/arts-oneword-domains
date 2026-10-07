@@ -1,10 +1,10 @@
-# One-Word Arts Domain Names — 506 TLDs, Updated Daily (102,941)
+# One-Word Arts Domain Names — 506 TLDs, Updated Daily (102,889)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-102%2C941%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-102%2C889%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,9 +12,9 @@
 This selection includes 179,835 one-word Arts domain names across 506 TLDs, with a median ask of $713.54. Updated daily, it offers a price-transparent shortlist for comparing brandability, TLD coverage, and renewal costs before committing.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **102,941 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **102,889 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 102,941 domains · **Median ask:** $341.65 · **High-demand under $2,500:** 293
+**Public extract:** 1,000 rows · **Live catalog:** 102,889 domains · **Median ask:** $340.68 · **High-demand under $2,500:** 301
 
 **Last updated:** 2026-10-06
 **Canonical page:** `https://unique.domains/domains/sector/arts`
@@ -64,26 +64,26 @@ print(df.head())
 
 | domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                   |
 | --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------------------- |
-| art.accountants | available | $90.20    | $90.20        | high           | medium | 3      | cloudflare                                  |
+| art.accountants | available | $122.98   | $145.98       | high           | medium | 3      | namecheap                                   |
 | arts.trade      | resell    | $3,942.02 | —             | high           | low    | 4      | Spaceship, Inc.                             |
 | art.accountant  | premium   | $640      | $77.35        | high           | medium | 3      | namesilo                                    |
 | art.airforce    | available | $83       | $83           | high           | medium | 3      | spaceship                                   |
 | artistry.homes  | resell    | $1.99     | $15.75        | high           | medium | 8      | Spaceship, Inc.                             |
 | art.actor       | premium   | $78.54    | $78.54        | high           | medium | 3      | namesilo                                    |
 | art.auto        | available | $1,863.20 | $2,064.20     | high           | medium | 3      | spaceship                                   |
-| creative.surf   | resell    | $2.19     | $32.49        | high           | medium | 8      | GoDaddy.com, LLC                            |
+| creative.blue   | resell    | $9,775    | $35.99        | high           | medium | 8      | Squarespace Domains II LLC                  |
 | art.apartments  | premium   | $78.54    | $78.54        | high           | medium | 3      | namesilo                                    |
-| art.car         | available | $1,999.99 | $2,199        | high           | medium | 3      | namesilo                                    |
+| art.car         | available | $1,863.20 | $2,064.20     | high           | medium | 3      | spaceship                                   |
+| painting.gg     | resell    | $82.98    | —             | high           | low    | 8      | GoDaddy.com LLC (https://www.godaddy.com)   |
+| art.associates  | premium   | $218.80   | $437.19       | high           | medium | 3      | porkbun                                     |
+| art.cars        | available | $1,999.99 | $2,199        | high           | medium | 3      | namesilo                                    |
 | art.adult       | resell    | —         | —             | high           | medium | 3      | Name.com, Inc.                              |
-| art.associates  | premium   | $414.20   | $414.20       | high           | medium | 3      | spaceship                                   |
-| art.cars        | available | $2,070    | $2,950        | high           | medium | 3      | namecheap                                   |
-| art.agency      | resell    | —         | —             | high           | medium | 3      | GoDaddy Online Services Cayman Islands Ltd. |
 | art.attorney    | premium   | $512      | $512          | high           | medium | 3      | namesilo                                    |
-| art.democrat    | available | $7.25     | $32.99        | high           | medium | 3      | namesilo                                    |
-| art.app         | resell    | —         | —             | high           | medium | 3      | GoDaddy.com, LLC                            |
+| art.democrat    | available | $5.38     | $26.08        | high           | medium | 3      | spaceship                                   |
+| art.agency      | resell    | —         | —             | high           | medium | 3      | GoDaddy Online Services Cayman Islands Ltd. |
 | art.autos       | premium   | $2,660    | $2,660        | high           | medium | 3      | namesilo                                    |
 | art.desi        | available | $19.98    | $22.98        | high           | medium | 3      | namecheap                                   |
-| art.band        | resell    | —         | —             | high           | medium | 3      | Spaceship, Inc.                             |
+| art.app         | resell    | —         | —             | high           | medium | 3      | GoDaddy.com, LLC                            |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                       |
 | ----------------------- | ---------------------------------------------------- |
-| 1,000-row public sample | 102,941 live domains                                 |
+| 1,000-row public sample | 102,889 live domains                                 |
 | Static CSV / JSON       | live search and daily refresh                        |
-| Basic exported fields   | 293 high-demand names under $2,500                   |
+| Basic exported fields   | 301 high-demand names under $2,500                   |
 | No persistence          | Radar, saved search, and alerts                      |
 | No naming workflow      | Radar from a naming brief, shortlist, and next steps |
 
